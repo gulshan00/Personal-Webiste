@@ -10,4 +10,4 @@
   
 - Javascript
 
-## <p>Live: <a style=" text-decoration:none;" href="https://sirisha-portfolio06.netlify.app">https://sirisha-portfolio06.netlify.app</a></p>
+## 
